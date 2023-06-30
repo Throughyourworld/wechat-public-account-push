@@ -16,6 +16,8 @@ const USER_CONFIG = {
   PROVINCE: '黑龙江',
   CITY: '七台河',
 
+  IS_SHOW_COLOR: true,
+
   USERS: [
     {
       // 想要发送的人的名字
